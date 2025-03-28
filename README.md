@@ -6,4 +6,4 @@ I'm an erstwhile senior software engineer, and have been coding for way too long
 
 Most of the stuff on here is silly stuff I do for fun, though I was once an active committer for the [pants build system](https://pantsbuild.org). You can find more silly things I do on my [blog](https://gwenverbsnouns.com).
 
-[Salad Theory](https://salad-theory.com) is my fault.
+[Salad Theory](https://saladtheory.github.io/) is my fault.
